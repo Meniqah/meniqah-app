@@ -1,0 +1,19 @@
+{
+  "name": "meniqah-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meniqah/meniqah-app.git"
+  },
+  "author": "Achmad Fadhitya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meniqah/meniqah-app/issues"
+  },
+  "homepage": "https://github.com/Meniqah/meniqah-app#readme"
+}
